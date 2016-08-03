@@ -12,5 +12,8 @@ color:
     - '#E376B7'
 layout_spectrum: 0.3279932
 name: Reinerlab
-navigation: []
+navigation:
+  - name: TEMs
+    url: 'http://peterbartreiner.com/technologies-of-the-extended-mind/'
+    type: external
 title: ReinerLab
