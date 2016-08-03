@@ -1,4 +1,4 @@
-layout_spectrum: 0.3279932
+typography_spectrum: 0.6576728
 color:
   saturation: 0.02150086
   brandStrength: 0.7192243
@@ -10,6 +10,10 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-typography_spectrum: 0.6576728
+layout_spectrum: 0.3279932
 name: Reinerlab
+navigation:
+  - name: Technologies of the Extended Mind
+    url: 'http://peterbartreiner.com/technologies-of-the-extended-mind/'
+    type: external
 title: ReinerLab
